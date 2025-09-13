@@ -1,2 +1,2 @@
 # Java_Practic
-Kosta.SH
+Kost.SH
